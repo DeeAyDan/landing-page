@@ -1,8 +1,21 @@
 #header{
     display:flex;
     flex-direction: row;
+    gap: 10px;
 }
 
 #header-logo{
     margin-right: auto;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.header-links{
+    color: #F9FAF8;
+}
+
+#header-logo, .header-links{
+    display: flex;
+    align-items: center;
 }
