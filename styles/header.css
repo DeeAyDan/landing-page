@@ -32,7 +32,11 @@
 }
 
 #header-button{
-
+    background-color: #3882F6;
+    color: #F9FAF8;
+    width: 96px;
+    height: 36px;
+    margin-top: 12px;
 }
 
 #howl-image{
