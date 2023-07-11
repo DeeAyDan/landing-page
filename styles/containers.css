@@ -3,6 +3,7 @@
     min-width: 50%;
 }
 
-#image-container{
-    min-width: 50%;
+.image-container{
+    display:flex;
+    align-items:center;
 }

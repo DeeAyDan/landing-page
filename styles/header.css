@@ -37,8 +37,16 @@
     width: 96px;
     height: 36px;
     margin-top: 12px;
+    border-radius: 6px;
 }
 
 #howl-image{
     width: 100%;
+}
+
+.header-text-box{
+    display:flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 12px;
 }

@@ -1,0 +1,28 @@
+.info-title{
+    font-size: 36px;
+    font-weight: bold;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 48px;
+}
+
+.info-image{
+    width: 150px;
+    height: 150px;
+}
+
+.info-text{
+}
+
+.info-box{
+    display: flex;
+    flex-direction: column;
+}
+
+#card-holder{
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
