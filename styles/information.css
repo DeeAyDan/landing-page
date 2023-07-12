@@ -21,7 +21,7 @@
     flex-direction: column;
 }
 
-#card-holder{
+.card-holder{
     padding: 0px;
     display: flex;
     justify-content: center;

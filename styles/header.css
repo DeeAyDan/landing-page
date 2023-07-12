@@ -31,6 +31,7 @@
 #header-text{
     font-size: 18px;
     color: #E5E7EB;
+    flex-grow: 1;
 }
 
 #header-button{
