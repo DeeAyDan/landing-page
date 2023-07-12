@@ -9,11 +9,16 @@
 .info-image{
     width: 150px;
     height: 150px;
+    border: solid #3882F6 3px;
+    border-radius: 3px;
 }
 
 .info-text{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
+    width: 150px;
+    text-align: center;
 }
 
 .info-box{
@@ -27,4 +32,8 @@
     justify-content: center;
     flex-wrap: wrap;
     gap: 48px;
+}
+
+.card-image{
+    width: 100%;
 }
