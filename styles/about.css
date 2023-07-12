@@ -1,0 +1,17 @@
+.about-holder{
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+
+.about-card{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: rgb(43, 43, 43);
+}
+
+.about-card > p{
+    margin: 0px;
+}

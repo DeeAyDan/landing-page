@@ -13,7 +13,7 @@
     flex:3 0 auto;
     justify-content: center;
 }
-/* First white section */
+/* Project section */
 .flex-item:nth-of-type(3){
     padding: 48px 15% 48px 15%;
     background-color: rgb(255, 251, 245);
@@ -23,12 +23,13 @@
     flex:3 0 auto;
 }
 
-/* Middle part */
+/* About part */
 .flex-item:nth-of-type(4){
     padding: 48px 15% 48px 15%;
     background-color: #E5E7EB;
     justify-content: center;
     display: flex;
+    flex-direction: column;
     flex:3 0 auto;
 }
 /* Second white part */
