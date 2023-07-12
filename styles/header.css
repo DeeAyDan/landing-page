@@ -13,6 +13,8 @@
 
 .header-links{
     color: #F9FAF8;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 #header-logo, .header-links{
