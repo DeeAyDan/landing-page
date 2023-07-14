@@ -32,7 +32,7 @@
     flex-direction: column;
     flex:3 0 auto;
 }
-/* Second white part */
+/* Socials part */
 .flex-item:nth-of-type(5){
     padding: 48px 10% 48px 10%;
     background-color: rgb(255, 251, 245);
